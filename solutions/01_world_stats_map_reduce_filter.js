@@ -154,14 +154,13 @@
  * @return {Number}                    The average population
  */
  function getContinentAveragePopulation(countryArray, continent){
-     var totalPopulation = countryArray
-     .filter(function(country){
+     var countries = countryArray.filter(function(country){
          return country.continent == continent;
-     })
-     .reduce(function(totalPopulation, country){
-         return totalPopulation += country.population;
+     });
+     var totalPopulation = countries.reduce(function(totalPop, country){
+         return totalPop += country.population;
      }, 0);
-     return (totalPopulation/countryArray.length).toFixed(0);
+     return (totalPopulation/countries.length).toFixed(0);
  }
 
 /**
@@ -214,7 +213,7 @@
 //4
  print(getLeastPopulatedCountry(countries));
 //5
- print(getContinentAveragePopulation(countries, 'Europe'));
+ print(getContinentAveragePopulation(countries, 'Africa'));
 //6
  print(getCountriesWithPopulationAbove(countries, 50000000));
 //7
