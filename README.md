@@ -37,10 +37,22 @@ __v.7__
     - Kriterier
 * Repetition av JavaScript
 
+###### Lektionsmaterial
+
+* **[Slides: JavaScript 2 Intro](https://fend16.github.io/slides/javascript2/js_intro.html#/)**
+* **[Exercise: 01 World Stats](https://github.com/FEND16/javascript2/blob/master/exercises/01_world_stats.md)**
+* [Solutions: 01 World Stats Regular Loops](https://github.com/FEND16/javascript2/blob/master/solutions/01_world_stats_regular_loops.js)
+* [Solutions: 01 World Stats Map, Reduce, Filter](https://github.com/FEND16/javascript2/blob/master/solutions/01_world_stats_map_reduce_filter.js)
+
 ### Tisdag 14/2
 
 * Scope & Context
 * Closures
+
+###### Lektionsmaterial
+
+* **[Slides: Scope & Context](https://fend16.github.io/slides/javascript2/scope_closures.html#/)**
+* **[Exercise: 02 Scope & Closures](https://github.com/FEND16/javascript2/blob/master/exercises/02_scopes_closures.md)**
 
 ##### Litteratur
 
@@ -54,6 +66,12 @@ __v.7__
     * Prototypes
     * Object.create();
 * `.this`
+
+##### Lektionsmaterial
+
+* **[Slides: Prototypes](https://fend16.github.io/slides/javascript2/prototypes.html#/)**
+* **[Exercise: Objects & Prototypes](https://github.com/FEND16/javascript2/blob/master/exercises/03_objects_and_prototypes.md)**
+* [Solutions: 03 Objects & Prototypes](https://github.com/FEND16/javascript2/blob/master/solutions/03_objects_and_prototypes.js)
 
 
 ##### Litteratur

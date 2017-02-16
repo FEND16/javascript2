@@ -19,8 +19,8 @@ som finns där ute. Det är viktigare att förstå prototypkedjan än att lära 
 1. Du ska skapa en `Constructor`-funktion som ska skapa ett nytt `Country`-objekt. Denna `Constructor` behöver inte ligga inuti din `CountryDatabase` utan kan ligga i global scope.
 2. Lägg till två funktioner på prototypen till denna `constructor`-funktion. Funktionerna kommer alltså att vara kopplade till `Country`s prototyp. Dina funktioner som du gjorde de föregående lektionerna ska alltså inte ligga i denna prototyp. Dessa funktioner skulle kunna vara funktioner som t.ex. loggar ut landets population eller liknande.
 3. Kalla sedan på `Country`-funktionen och skapa två `Country`-objekt som du sedan pushar in i din array i din `CountryDatabase`. Du kan antingen bara pusha in objektet i arrayen eller skapa en funktion i `ConuntryDatabase` som pushar in ett objekt. 
-4. Skapa en ny `City`-constructor. `City`-constructorn ska ha samma egenskaper som `Country` förutom att den ska ha en ny egenskap: `country` som ska landet staden ligger i och `name` ska nu istället vara namnet på staden. Variablen `pFemale` måste inte vara med men du kan gärna ha med den om du vill.
-5. Skapa en `City`-constructor fast använd den här gången `call` för att kalla på `Country`-functionen för att återanvända dess parametrar. Kom ihåg att `City` nu har en ny egenskap: `country` som måste lagras och som inte finns i `Country`-funktionen.
+4. Skapa en ny `City`-constructor. `City`-constructorn ska ha samma egenskaper som `Country` förutom att den ska ha en ny egenskap: `country` (landet staden ligger i) och `name` ska nu istället vara namnet på staden. Variablen `pFemale` måste inte vara med men du kan gärna ha med den om du vill.
+5. Ändra på din `City`-constructor fast använd den här gången `call` för att kalla på `Country`-functionen för att återanvända dess parametrar. Kom ihåg att `City` nu har en ny egenskap: `country` som måste lagras och som inte finns i `Country`-funktionen.
 
 ```javascript
 function City(){
