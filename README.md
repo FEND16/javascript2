@@ -44,7 +44,7 @@ __v.7__
 * [Solutions: 01 World Stats Regular Loops](https://github.com/FEND16/javascript2/blob/master/solutions/01_world_stats_regular_loops.js)
 * [Solutions: 01 World Stats Map, Reduce, Filter](https://github.com/FEND16/javascript2/blob/master/solutions/01_world_stats_map_reduce_filter.js)
 
-### Tisdag 14/2
+### Onsdag 15/2
 
 * Scope & Context
 * Closures
@@ -59,7 +59,7 @@ __v.7__
 * [YDKJ | Scopes & Closures | Fördjupning](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 * [Ryan Morr | Scopes, Context & Closures](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
 
-### Onsdag 15/2
+### Torsdag 16/2
 
 * Objects
     * Constructor functions
@@ -89,6 +89,14 @@ __v.8__
     - Module Pattern
     - Revealing Module Pattern
 
+
+##### Lektionsmaterial
+
+* **[Slides: Design Patterns](https://fend16.github.io/slides/javascript2/design_patterns.html#/)**
+* **[Exercise: 04 Design Patterns](https://github.com/FEND16/javascript2/blob/master/exercises/04_design_patterns.md)**
+* [Solutions: 04 Design Patterns](https://github.com/FEND16/javascript2/blob/master/solutions/04_design_patterns.js)
+* [Code: Design Patterns](https://github.com/FEND16/javascript2/blob/master/code/04_design_patterns.js)
+
 ##### Litteratur
 
 * [JavaScript Design Patterns: **Constructor Pattern**](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#constructorpatternjavascript)
@@ -106,6 +114,7 @@ __v.8__
 
 * [ES6 Classes | Exploring JS ES6](http://exploringjs.com/es6/ch_classes.html)
 * [ES6 Features](https://github.com/lukehoban/es6features)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 
 ---
@@ -128,47 +137,49 @@ __v.10__
 
 ### Måndag 6/3
 
+* Node, `npm` och byggverktyg
+    - Introduktion till Nodes ekosystem
+    - Sätta upp ett enklare byggsystem med _Gulp_
+    - Gulp-recept
+    - Alternativ till gulp
+
+### Tisdag 7/3
+
 * DOM-manipulation med vanillaJS
     - Repetition
     - Viktiga metoder
 * Introduktion till jQuery
     - Selektorer
     - Viktiga metoder
-
-
-##### Litteratur
-* [Call Me Nick | Basic DOM-manipulation](http://callmenick.com/post/basics-javascript-dom-manipulation)
-* [Call Me Nick | Some jQuery Functions And Their JavaScript Equivalents](http://callmenick.com/post/jquery-functions-javascript-equivalents)
-* [jQuery API Reference](http://api.jquery.com/)
-* [jQuery CDN](https://code.jquery.com/)
-
-### Tisdag 7/3
-
-* jQuery fortsättning
-
----
-__v.11__
-
-### Måndag 13/3
-
 * AJAX
     - Vanilla AJAX
     - jQuery AJAX
     - Fetch AJAX
 
 ##### Litteratur
+* [Call Me Nick | Basic DOM-manipulation](http://callmenick.com/post/basics-javascript-dom-manipulation)
+* [Call Me Nick | Some jQuery Functions And Their JavaScript Equivalents](http://callmenick.com/post/jquery-functions-javascript-equivalents)
+* [jQuery API Reference](http://api.jquery.com/)
+* [jQuery CDN](https://code.jquery.com/)
 * [David Walsh | Fetch](https://davidwalsh.name/fetch)
 * [jQuery AJAX](http://api.jquery.com/jquery.ajax/)
 * [SitePoint | jQuery AJAX](https://www.tutorialspoint.com/jquery/jquery-ajax.htm)
 * [W3Schools.com | AJAX Tutorial](http://www.w3schools.com/xml/ajax_intro.asp)
 
-### Tisdag 14/3
+
+---
+__v.11__
+
+### Måndag 13/3
 
 * AJAX fortsättning
 * Asynchronus JavaScript
+* Promises
 * ReST API
     - Hämta data från API
     - Vilket API ska man välja
+__Repetition, vad man ska tänka på när man skriver sin app__
+
 
 ##### Litteratur
 * [toddmotto@github | Public APIs](https://github.com/toddmotto/public-apis)
@@ -177,10 +188,14 @@ __v.11__
 * [Callback Hell](http://callbackhell.com/)
 * [ReST API Tutorial](http://www.restapitutorial.com/)
 
+### Tisdag 14/3
+
+* Öppet pass, kom gärna med förslag om vad ni vill göra annars så lägger jag in ett pass om sånt som jag tycker är bra att kunna och ytterligare fördjupning. Eventuellt fördjupning inom node och npm.
+
 ---
 __v.12__
 
-### Torsdag 23/3
+### Torsdag 21/3
 
 * Ajax & Design Pattern
 * Arbete med __Obligatorisk inlämning__
