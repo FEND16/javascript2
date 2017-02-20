@@ -10,7 +10,9 @@ Cat.prototype.mjau = function(){
 Cat.prototype.hasStuff = true;
 
 var Ronny = new Cat('Ronny', 'Cat');
-console.log(Ronny);
+//console.log(Ronny);
+
+
 
 
 var Cat = { 
@@ -34,9 +36,20 @@ var Cat = {
   }
 };
 
+
+
+
 //När vi nu skapar objektet skapar vi nu objektet med funktionen
 //som ligger i objektet Cat
 var Missy = Cat.create("Missy", "Burma");
 var Gorbaj = Cat.create("Gorbaj", "Norsk");
 
-console.log(Missy, Gorbaj);
+//console.log(Missy, Gorbaj);
+//
+//
+//
+//
+//
+//
+//
+//
