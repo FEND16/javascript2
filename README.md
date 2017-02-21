@@ -110,6 +110,15 @@ __v.8__
 * JavaScript ES6
 * JavaScript ES6 Classes
 
+#### [Examinerande uppgift](https://github.com/FEND16/javascript2/blob/master/assignment_design_pattern.md)
+
+##### Lektionsmaterial
+
+* **[Slides](https://fend16.github.io/slides/javascript2/es6.html#/)**
+* **[Exercise: 05 - ES6 Classes](https://github.com/FEND16/javascript2/blob/master/exercises/05_es6.md)**
+* [Solutions: 05 - ES6 Classes](https://github.com/FEND16/javascript2/blob/master/solutions/05_es6.js)
+* [Code: ES6 Exempel](https://github.com/FEND16/javascript2/blob/master/code/05_es6.js)
+
 ##### Litteratur
 
 * [ES6 Classes | Exploring JS ES6](http://exploringjs.com/es6/ch_classes.html)
