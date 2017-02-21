@@ -124,13 +124,13 @@ __v.9__
 
 * Designmönster & ES6 dag 1
 * Arbete med __Obligatorisk inlämning__
-* **Lämna in första utkast på torsdagen 2/3**
+* **Lämna in första utkast på onsdag 1/3 7.00**
 
 ### Tisdag 28/2
 
 * Designmöster & ES6 dag 2
 * Arbete med __Obligatorisk inlämning__
-* **Lämna in första utkast på torsdagen 2/3**
+* **Lämna in första utkast på onsdag 1/3 7.00**
 
 ---
 __v.10__

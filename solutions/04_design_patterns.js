@@ -75,7 +75,6 @@ var CountryDatabase = (function(){
   //End of return
 })();
 
-
 //We can only get the data from the exposed functions
 //console.log(CountryDatabase.getTotalPopulation());
 
@@ -148,7 +147,7 @@ var RevealCountryDatabase = (function(){
   //function and the left hand side is the public function. If we would
   //call this function we would use RevealCountryDatabase.getArray();
   return {
-    getArray: returnCountriesArray
+    returnCountriesArray: returnCountriesArray
   }
 })();
 
