@@ -16,6 +16,7 @@ Mönstrena är inget som måste separeras från varandra och vilket mönster du 
 ### Uppgiftbeskrivning
 
 Ni ska skapa datastrukturer och funktioner för att hantera en lokal "databas" med filmer. Man ska kunna:
+
 * Lägga till nya filmer
 * Visa alla filmer
 * Betygsätta en film
@@ -26,6 +27,7 @@ Ni ska skapa datastrukturer och funktioner för att hantera en lokal "databas" m
 ###### Properties
 
 För varje film ska ni ha ett objekt med åtminstone (det är tillåtet att skapa fler) följande egenskaper:
+
 * `title` - filmens namn `(String)`
 * `year` - årtal som den hade premiär `(Number)`
 * `genres` - vilka genres som bäst matchar filmen `(Array)`
@@ -80,6 +82,7 @@ __Det är tillåtet att lägga till fler properties till ett objekt och att läg
 ## Betyg
 
 __G:__
+
 * Kan utföra alla nödvändiga delar som listas i [Uppgiftsbeskrivning](#uppgiftsbeskrivning)
 * Använder dig utav ett eller flera designmönster för att lägga upp din applikation och har struktur bland dina funktioner.
 * Motiverar valet av designmönster. Varför har jag använt det här sättet att lägga upp min kod på? Fördelar? Nackdelar? (Skriv detta i dina kommentarer i koden eller i `README.md`).
@@ -88,6 +91,7 @@ __G:__
 * Skriver funktioner som är väl avgränsade och som har en specifik uppgift att utföra. 
 
 __VG:__
+
 * Allt som står i __G-kraven__ samt: 
 * Använder dig utav ES6: `let`, `const` och `=>` där det behövs och kan användas.
 * Visar att du kan använda dig av prototypkedjan och väl kommenterar hur denna prototypkedja fungerar i din kod där du utnyttjar den.
