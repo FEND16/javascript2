@@ -54,7 +54,7 @@ Hela _Nodes_ ekosystem bygger på att man delar kod, specifikt så delar man pak
 Säg att vi vill ha ett enkelt program för att minifera JavaScript, d.v.s. komprimera och minska storleken på en av våra JavaScript-filer. Detta kan man göra på sidor som: [Minifer](http://www.minifier.org). Men det är ju skönare att ha ett program som gör det lokalt på datorn och som inte tar upp massa plats. `npm` har just flera olika moduler som gör just denna uppgift och som heter just [Minifier@npm](https://www.npmjs.com/package/minifier). För att installera och använda en sådan _modul_ kan vi använda oss av terminalen:
 
 ```bash
-npm install -g minifer
+npm install -g minifier
 ```
 
 **Alla moduler man installerar global kan sedan användas direkt från terminalen via dess namn, likadant som `git`**
@@ -63,10 +63,10 @@ Så om vi vill nu använda denna modul (tänk på det som ett program som enbart
 
 ```bash
 #example
-minifer main.js main.min.js
+minifier main.js main.min.js
 
 #It follows the following pattern
-minifer inputfile.js outputfile.js
+minifier inputfile.js outputfile.js
 ```
 
 Detta är liknande som vi gjorde med `sass`. Vi kan även som med `sass` välja att konvertera hela mappar eller filer enligt ett visst mönster.

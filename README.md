@@ -152,6 +152,20 @@ __v.10__
     - Gulp-recept
     - Alternativ till gulp
 
+
+##### Lektionsmaterial
+
+* **[Slides: Node, npm & Gulp](https://fend16.github.io/slides/javascript2/node.html#/)**
+* **[gulp-boilerplate](https://github.com/FEND16/gulp-boilerplate)**
+* **[Exercises: 06_node](https://github.com/FEND16/javascript2/blob/master/exercises/06_node.md)**
+
+##### Litteratur
+
+* [npmjs.com | npm repository](https://www.npmjs.com/)
+* [Gulp Tutorial](http://www.laminsanneh.com/blog/post/60/gulpjs-javascript-build-system-tutorial-beginners-and-advanced)
+* [CSS-tricks | Gulp Tutorial](https://css-tricks.com/gulp-for-beginners/)
+* [nodeschool.io](https://nodeschool.io/)
+
 ### Tisdag 7/3
 
 * DOM-manipulation med vanillaJS
