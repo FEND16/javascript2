@@ -179,7 +179,16 @@ __v.10__
     - jQuery AJAX
     - Fetch AJAX
 
+##### Lektionsmaterial
+
+* **[Slides: jQuery & AJAX](https://fend16.github.io/slides/javascript2/jquery_ajax.html#/)**
+* **[Exercise: 07_ajax](https://github.com/FEND16/javascript2/blob/master/exercises/07_ajax.md)**
+* [Code: 07_ajax](https://github.com/FEND16/javascript2/blob/master/code/07_ajax.js)
+
 ##### Litteratur
+
+* [json-server](https://github.com/typicode/json-server)
+* [Egghead | Creating Demo APIs with json-server](https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server)
 * [Call Me Nick | Basic DOM-manipulation](http://callmenick.com/post/basics-javascript-dom-manipulation)
 * [Call Me Nick | Some jQuery Functions And Their JavaScript Equivalents](http://callmenick.com/post/jquery-functions-javascript-equivalents)
 * [jQuery API Reference](http://api.jquery.com/)
