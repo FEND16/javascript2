@@ -144,6 +144,7 @@ $.ajax({
 ### Länkar
 
 * [json-server](https://github.com/typicode/json-server)
+* [Egghead | Creating Demo APIs with json-server](https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server)
 * [Call Me Nick | Basic DOM-manipulation](http://callmenick.com/post/basics-javascript-dom-manipulation)
 * [Call Me Nick | Some jQuery Functions And Their JavaScript Equivalents](http://callmenick.com/post/jquery-functions-javascript-equivalents)
 * [jQuery API Reference](http://api.jquery.com/)
@@ -152,3 +153,4 @@ $.ajax({
 * [jQuery AJAX](http://api.jquery.com/jquery.ajax/)
 * [SitePoint | jQuery AJAX](https://www.tutorialspoint.com/jquery/jquery-ajax.htm)
 * [W3Schools.com | AJAX Tutorial](http://www.w3schools.com/xml/ajax_intro.asp)
+
