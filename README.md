@@ -8,6 +8,12 @@ Kursen är en fördjupning inom främst vanilla JavaScript med fokus på Prototy
 
 Examinationen kommer att vara uppdelad i två olika obligatoriska inlämningar med tillhörande labbtid. Den ena som kommer att fokusera på uppläggning av kod samt olika designmönster inom JavaScript och den andra som kommer att fokusera på att hämta data från APIer men där vi även ska implementera ett designmönster.
 
+
+## Inlämningsupgifter
+
+#### [Examination 1: Design Patterns](assignment_design_pattern.md)
+#### [Examination 2: AJAX](assignment_ajax.md)
+
 ## Inlämningar
 
 Inlämningarna kommer att bedömas på hur väl du lägger upp din kod och håller dig till de riktlinjer för att skriva väl fungerande kod. Användande av designmönster, välskrivna funktioner, kodkommentarer och namngivning av variabler är något som premieras över att man lyckats implementera alla funktioner som din applikation ska ha.
@@ -213,6 +219,14 @@ __v.11__
 __Repetition, vad man ska tänka på när man skriver sin app__
 
 
+
+##### Lektionsmaterial
+
+### [Examinerande uppgift: AJAX](https://github.com/FEND16/javascript2/blob/master/assignment_ajax.md)
+
+* **[Slides: Async & API](https://fend16.github.io/slides/javascript2/async.html#/)**
+* [Slides PDF: Async & API](https://github.com/FEND16/javascript2/blob/master/slides/08_async_api.pdf)
+
 ##### Litteratur
 * [toddmotto@github | Public APIs](https://github.com/toddmotto/public-apis)
 * [APIKatalogen](http://apikatalogen.se/)
@@ -223,6 +237,25 @@ __Repetition, vad man ska tänka på när man skriver sin app__
 ### Tisdag 14/3
 
 * Öppet pass, kom gärna med förslag om vad ni vill göra annars så lägger jag in ett pass om sånt som jag tycker är bra att kunna och ytterligare fördjupning. Eventuellt fördjupning inom node och npm.
+
+* Programmeringsparadigm
+* Designprinciper
+
+##### Lektionsmaterial
+
+* **[Slides: JavaScript Summary](https://fend16.github.io/slides/javascript2/javascript.html#/)**
+* **[Slides PDF: JavaScript Summary](https://github.com/FEND16/javascript2/blob/master/slides/09_javascript_summary.pdf)**
+
+##### Litteratur
+
+* [__10 Interview questions every JavaScript Developer Should Know__ by _Eric Elliott_](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.2e1pscshy)
+* [__Composition > Inheritance__ by _funfunfunctions_](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+* [__Understanding Prototypes, Delegation and Composition__ by _Dave Atchley_](http://www.datchley.name/understanding-prototypes-delegation-composition/)
+* [__Making sense of front end build tools__ by _Roneesh_](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.6sphj73gr)
+* [Comparison of Programming Paradigms](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+* [TODOMVC.COM](http://todomvc.com/)
+* [Vanilla MVC Implementation](https://github.com/tastejs/todomvc/tree/gh-pages/examples/vanilla-es6)
+
 
 ---
 __v.12__
